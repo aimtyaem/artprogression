@@ -1,4 +1,5 @@
-# artprogression
+# Art Progression
+![Mockup](/White%20Animated%20Phone%20Mockup%20Chat%20Social%20Media%20Instagram%20Story.gif)] 
 AI Chatbot is running through the steps below:
 1. **Clone the repository**: First, clone the repository to your local machine using the following command: `git clone <repository_url>`.
 2. **Install dependencies**: Next, navigate to the project directory and install the required dependencies using the following command: `pip install -r requirements.txt`.
